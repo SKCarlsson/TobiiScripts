@@ -117,5 +117,4 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/python,windows
 
-Notebook/pilot1participant.tsv
-Notebook/pilot4participants.tsv
+*.tsv
